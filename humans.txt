@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mikael Gustavsson ´miga02@gmail.com
 
 # THANKS
 
