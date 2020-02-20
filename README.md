@@ -3,6 +3,7 @@
 Adding new text to the readme file.
 
 This repository is for showing how Git and GitHub work
+more changes from myfeature branch.
 
 ## Purpose
 
