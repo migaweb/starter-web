@@ -21,4 +21,4 @@ Nothing here
 Introduction text
 
 
-2020 copyright Micke
+2020 copyright Micke, All rights reserved
