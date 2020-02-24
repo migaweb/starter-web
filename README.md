@@ -5,6 +5,8 @@ Adding new text to the readme file.
 This repository is for showing how Git and GitHub work
 more changes from myfeature branch.
 
+emergency fix after stash
+
 ## Purpose
 
 Sample website with plenty of files for demos
